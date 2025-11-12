@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../C TUTORIAL"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"DIY1.C": "cpp",
+			"DIY5.C": "cpp"
+		}
+	}
+}
