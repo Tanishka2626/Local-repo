@@ -10,7 +10,8 @@
 	"settings": {
 		"files.associations": {
 			"DIY1.C": "cpp",
-			"DIY5.C": "cpp"
+			"DIY5.C": "cpp",
+			"Q102.C": "cpp"
 		}
 	}
 }
